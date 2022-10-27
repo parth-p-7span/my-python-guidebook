@@ -1,8 +1,6 @@
 ## Create a workspace for Python
 ### Please follow the steps below to install the Python workspace.
-1. Download the most recent version of Python from [this site](https://www.python.org/downloads/).
-
-Note: When installing, make sure the add to Path option is enabled.
+1. Download the most recent version of Python from [this site](https://www.python.org/downloads/).<br>Note: When installing, make sure the add to Path option is enabled.
 2. [Click here](https://www.jetbrains.com/pycharm/download)
  to download the most recent version of PyCharm Community Edition.
 
